@@ -233,9 +233,3 @@
     font-size: 1.7em;
   }
 }
-
-@media screen and (min-width: 800px) {
-  .product-cards .product-card:first-child {
-    display: block;
-  }
-}
