@@ -6,7 +6,7 @@ body {
 .card {
   border: none;
   display: flex;
-  width: 400px;
+  width: 300px;
   flex-direction: column;
   background-color: #fbf7e3;
   overflow: hidden;
@@ -41,7 +41,7 @@ h3 {
 .title {
   display: flex;
   justify-content: space-around;
-  margin-bottom: 1em;
+  align-items: center;
 }
 
 .price {
@@ -59,4 +59,5 @@ article button {
   background-color: #f3df85;
   border: none;
   cursor: pointer;
+  color: #612406;
 }
